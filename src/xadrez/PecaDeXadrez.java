@@ -3,16 +3,16 @@ package xadrez;
 import tabuleiro.Peca;
 import tabuleiro.Tabuleiro;
 
-public class PecaDeChadrez extends Peca {
+public class PecaDeXadrez extends Peca {
 
-    private Color color;
+    private Cor color;
 
-    public PecaDeChadrez(Tabuleiro tabuleiro, Color color) {
+    public PecaDeXadrez(Tabuleiro tabuleiro, Cor color) {
         super(tabuleiro);
         this.color = color;
     }
 
-    public Color getColor() {
+    public Cor getColor() {
         return color;
     }
 
