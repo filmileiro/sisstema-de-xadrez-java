@@ -1,4 +1,4 @@
-package xadrez;
+package tabuleiro;
 
 public class Peca {
     protected Posicao posicao;

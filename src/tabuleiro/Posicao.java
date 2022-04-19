@@ -1,4 +1,4 @@
-package xadrez;
+package tabuleiro;
 
 public class Posicao {
     private int linha;
