@@ -1,7 +1,7 @@
 package xadrez;
 
-import tabuleiro.Peca;
-import tabuleiro.Tabuleiro;
+import jogo_de_tabuleiro.Peca;
+import jogo_de_tabuleiro.Tabuleiro;
 
 public class PecaDeXadrez extends Peca {
 

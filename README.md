@@ -25,7 +25,7 @@ Status da Classe: ***`Public`***
 Atributos da Classe:
 
 **`protected Posicao posicao;`
-`private Tabuleiro tabuleiro;`**
+`private Tabuleiro jogo_de_tabuleiro;`**
 
 Ações aplicadas:
 

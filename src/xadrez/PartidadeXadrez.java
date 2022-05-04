@@ -1,7 +1,7 @@
 package xadrez;
 
-import tabuleiro.Posicao;
-import tabuleiro.Tabuleiro;
+import jogo_de_tabuleiro.Posicao;
+import jogo_de_tabuleiro.Tabuleiro;
 import xadrez.pecas.Rei;
 import xadrez.pecas.Torre;
 
